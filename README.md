@@ -76,9 +76,11 @@ npm run dev
 
 ## 🌐 Live Demo
 
-> 🔗 **Live link!**  
->  Deployed on:
-- [Vercel](https://vercel.com/)
+🎉 The project is live and accessible at:
+
+### 🔗 [Click Here](https://techfest-demo-three.vercel.app/)
+
+> Hosted with ❤️ on [Vercel](https://vercel.com/)
 
 ---
 
